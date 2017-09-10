@@ -1,5 +1,6 @@
-
-![cornerjumpshoot](https://github.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornerjumpshoot.jpg)
+ ![try](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornerjumpshoot.jpg)
+ 
+ ![cornerjumpshoot](https://github.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornerjumpshoot.jpg)
 
  ![cornershoot](https://github.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornershoot.jpg)
 
