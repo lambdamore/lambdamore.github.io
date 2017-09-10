@@ -1,4 +1,3 @@
- ![try](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornerjumpshoot.jpg)
  
  ![cornerjumpshoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornerjumpshoot.jpg)
 
