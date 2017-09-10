@@ -1,4 +1,4 @@
-![cornerjumpshoot](https://github.com/lambdamore/lambdamore.github.io/blob/master/figures/basketball/cornerjumpshoot.jpg)
+![cornerjumpshoot(https://i10.hoopchina.com.cn/hupuapp/bbs/941/18331941/thread_18331941_20170910171858_s_87918_h_1136px_w_639px355367433.jpeg?x-oss-process=image/resize,w_800/format,webp)
 
  ![cornershoot](https://github.com/lambdamore/lambdamore.github.io/blob/master/figures/basketball/cornershoot.jpg)
 
