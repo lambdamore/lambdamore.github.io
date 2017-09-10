@@ -6,3 +6,8 @@
 [日本见闻](https://lambdamore.github.io/posts/Japan)
 
 [WRF Installation Script](https://lambdamore.github.io/posts/WRFInstall)
+
+
+[婴宁](https://lambdamore.github.io/posts/婴宁)
+
+[Lisp能用来做什么](https://lambdamore.github.io/posts/lisp)
