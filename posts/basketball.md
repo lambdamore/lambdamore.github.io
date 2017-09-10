@@ -1,10 +1,9 @@
- ![try](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornerjumpshoot.jpg)
  
  ![cornerjumpshoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornerjumpshoot.jpg)
 
  ![cornershoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornershoot.jpg)
 
- ![dunk1](https://raw.githubusercontent.com//lambdamore/lambdamore.github.io/master/figures/basketball/dunk1.jpg)
+ ![dunk1](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/dunk1.jpg)
 
  ![dunk2](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/dunk2.jpg)
 
