@@ -2,9 +2,26 @@
 # Atmospheric River Event Simulated with WRF
 
 
-## Introduction
+## What is Atmospheric River
 
-Atmospheric River(AR) is featured by a narrow corridor of concentrated moisture originated from the warm conveyor belt of extratropical cyclones, whose warm moist air might contribute to heavy precipitation under orographical enhancement. It is on one hand a dominant water resources contributor for the mid-latitude but on the other hand a big threat of its devastating floods and debris flows.
+An Atmospheric River(AR) is a narrow corridor or filament of concentrated moisture in the atmosphere. The concept states that five or six major
+ARs are present in each hemisphere most of the time, with moisture fluxes comparable to some of the major terrestrial rivers(Newell et al. 1992; Zhu
+and Newell 1998). They are often associated with the meridional transport of water and energy, providing water resources for the mid-latitude but on the other hand threating its hydraulic infrastructures with devastating floods and debris flows.
+
+![space-1.jpg](/Users/lambda/Documents/Blog/figures/AR/AR_animation.gif)
+
+*Total Column Water Vapor Kinematics. GIF provided by NOAA's Earth System Research Laboratory.* 
+
+By indicating the comparability between the elusive atmospheric dynamic pattern to the common "river", the AR name hit a big success in marketing meteorology to the public. However, popularity comes with misunderstanding. 
+
+River
+
+Arguments 
+
+ 
+
+
+
 
 A case study using *Weather Research Forecast-Advanced Research WRF*(WRF-ARW) model to simulate the AR precipitation event during February 16 to 18, 2010 was described here. The purpose of this work is to investigate the circulation-precipitation relationship from a dynamic perspective. 
 
