@@ -2,47 +2,38 @@
 # Atmospheric River Event Simulated with WRF
 
 
-## What is Atmospheric River
+## Introduction
 
 An Atmospheric River(AR) is a narrow corridor or filament of concentrated moisture in the atmosphere. The concept states that five or six major
 ARs are present in each hemisphere most of the time, with moisture fluxes comparable to some of the major terrestrial rivers(Newell et al. 1992; Zhu
-and Newell 1998). They are often associated with the meridional transport of water and energy, providing water resources for the mid-latitude but on the other hand threating its hydraulic infrastructures with devastating floods and debris flows.
+and Newell 1998). They are often associated with the meridional transport of water and energy, providing precipitation for the mid-latitude but on the other hand threating its hydraulic infrastructures with devastating floods and debris flows.
 
 ![space-1.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/AR/AR_animation.gif)
 
 *Total Column Water Vapor Kinematics. GIF provided by NOAA's Earth System Research Laboratory.* 
 
-By indicating the comparability between the elusive atmospheric dynamic pattern to the common "river", the AR name hit a big success in marketing meteorology to the public. However, popularity comes with misunderstanding. 
+By indicating the comparability between the elusive atmospheric dynamic pattern to the common "river", the AR name hit a big success in marketing meteorology to the public. However, popularity comes with misunderstandings. The name "river" leaves the impression of long travelling moisture contributing to the heavy precipitation, which is proved to be misleading through idealized case study and Lagrangian analysis. 
 
-River
-
-Arguments 
-
- 
-
-
-
-
-A case study using *Weather Research Forecast-Advanced Research WRF*(WRF-ARW) model to simulate the AR precipitation event during February 16 to 18, 2010 was described here. The purpose of this work is to investigate the circulation-precipitation relationship from a dynamic perspective. 
-
-Given previous findings, we hope the circulation structure revealed by observations could be assimilated in the numerical model for better simulation and understanding of the process. 
-
-## Study Case Description
-The Russian River Basin is a characteristic watershed of the California coast ranges. The river springs from the Laughlin Range and flows southward to Redwood Valley, 
-
-![Study Area](/Users/lambda/Documents/RussianRiver.pdf)
-
-
-The two simulations
-are targeted at the dates of the CALJET and
-PACJET field campaigns [January–March (JFM) 1998
-and JFM 2001; initialized on 1 January 1998 and 1 January
-2001, respectively]. Since the earliest calendar date
-occurrence of any AR included in this study (in either
-1998 or 2001) is 21 January,
-
+Below we apply a dynamical downscaling model, *Weather Research Forecast-Advanced Research WRF*(WRF-ARW), to study the circulation dynamics and its associated precipitation distribution of a typical AR event in the West Coast United States. The purpose of this practice is to illustrate the extratropical cyclone theory and prepare myself for the upcoming work of assimilating remote sensing precipitation data for better winter storm dynamical simulations.
 
 ## Related Works
+
+Winter storms in the  West Coast United States have been intensively investigated given its frequent precipitation extremes(both droughts and floods) and economic importances. 
+
+Specific to mesoscale dynamical simulation, a framework that accomodates WRF for the region was implemented and tested by the Scripps Institution, named West-WRF. 
+
+Specific contribution of West-WRF
+
+including airborne,39 balloon-borne, ground based and remotely sensed measurements have been40 gathered from the CalWater 2 intensive observing periods.  
+
+
+AR location, extent and movement, vertical distributions of wind, water79 vapor and buoyancy, and storm scale patterns of rising/sinking motion
+
+
+
+
+Daniel Swan
+
 
 In this investigation, the authors conduct continuous (3 month), large-domain (3600 km 3 3200 km),
 high-resolution (4 km), nonhydrostatic simulations using the Weather Research and Forecasting (WRF) Model
@@ -58,7 +49,37 @@ Two of these studies, the California Land-Falling Jets Experiment
 high-resolution in situ dataset describing the vertical
 structure of numerous individual ARs (RNR05)
 
+
+Others
+
+
+Conslusion
+
+## Case Description
+The Russian River Basin is a characteristic watershed of the California coast ranges. The river springs from the Laughlin Range and flows southward to Redwood Valley, 
+
+![Study Area](/Users/lambda/Documents/RussianRiver.pdf)
+
+
+The two simulations
+are targeted at the dates of the CALJET and
+PACJET field campaigns [January–March (JFM) 1998
+and JFM 2001; initialized on 1 January 1998 and 1 January
+2001, respectively]. Since the earliest calendar date
+occurrence of any AR included in this study (in either
+1998 or 2001) is 21 January,
+
+
+
+
+
 ## Data
+
+### General Circulation Model Forcings
+
+### Observations
+
+
 ## Model Configuration
 ### WRF Preprocessing System
 In the Preprocessing part, we should provide the software with:
@@ -236,9 +257,15 @@ During a terrible fever that stuck me last summer,  I wrote a bash script that a
 
 One can write his/her own script file to automate the processes, too. For me, I choose Mathematica to generate the csh script. A detailed tutorial 
 
+## Performance Measurements
+
 ## Results 
 
 
 ## Discussion
+
 ## Conclusion
+
 *It is not complicated, it's just a lot of it.* <div style="text-align: right"> -- Richard P. Feynman </div>
+
+
