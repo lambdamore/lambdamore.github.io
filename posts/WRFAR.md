@@ -14,13 +14,13 @@ and Newell 1998). They are often associated with the meridional transport of wat
 
 By indicating the comparability between the elusive atmospheric dynamic pattern to the common "river", the AR name hit a big success in marketing meteorology to the public. However, popularity comes with misunderstandings. The name "river" leaves the impression of long travelling moisture contributing to the heavy precipitation, which is proved to be misleading through idealized case study and Lagrangian analysis. 
 
-Below we apply a dynamical downscaling model, *Weather Research Forecast-Advanced Research WRF*(WRF-ARW), to study the circulation dynamics and its associated precipitation distribution of a typical AR event in the West Coast United States. The purpose of this practice is to illustrate the extratropical cyclone theory and prepare myself for the upcoming work of assimilating remote sensing precipitation data for better winter storm dynamical simulations.
+Below we apply a dynamical downscaling model, *Weather Research Forecast-Advanced Research WRF*(WRF-ARW), to study the circulation dynamics and its associated precipitation distribution of a typical AR event in the West Coast United States. The purpose of this practice is to illustrate the extratropical cyclone theory and prepare myself for the upcoming work of assimilating remote sensing precipitation data for better winter storm dynamical simulation and forecast.
 
 ## Related Works
 
-ARs in the  West Coast United States have been intensively observed and investigated given its significant positive/negative influences for the region, especially under the recent 2011-2016 California Drought scenario. 
+ARs in the  West Coast United States have been intensively observed and investigated given its significant positive/negative influences, especially under the recent 2011-2016 California Drought scenario. 
 
-
+remote sensing, gauge, aircraft...
 
 Field observations
 
@@ -29,11 +29,11 @@ Skills in predicting tropospheric state during AR, AR core structure, and AR pre
 
 The simulations were compared to observations from balloon-borne, ground based and remotely sensed measurements. Observed iterms include xxx xxx xxx. 
 
-1, CalWater 2 intensive observing periods
+1, California Land-Falling Jets Experiment (CALJET) in 1998
 
-2, California Land-Falling Jets Experiment (CALJET)
+2, Pacific Land-Falling Jets Experiment (PACJET) in 2001 aircraft-based field campaigns, dozens of drop- sondes were deployed over the Pacific Ocean in and near the LLJ associated with well-defined (IWV . 2 cm) ARs
 
-3, Pacific Land-Falling Jets Experiment (PACJET)
+3, CalWater 2 intensive observing periods CalWater 2015, which has garnered considerable scientific and public interest (Witze 2015)
 
 airborne dropwindsondes from the CalWater140 2 research flights
 
