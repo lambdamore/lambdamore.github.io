@@ -5,7 +5,7 @@
 ## Introduction
 
 An Atmospheric River(AR) is a narrow corridor or filament of concentrated moisture in the atmosphere. The concept states that five or six major
-ARs are present in each hemisphere most of the time, with moisture fluxes comparable to some of the major terrestrial rivers(Newell et al. 1992; Zhu
+ARs are present in each hemisphere most of the time, with moisture fluxes comparable to the runoff of the Mississippi River(Newell et al. 1992; Zhu
 and Newell 1998). They are often associated with the meridional transport of water and energy, providing precipitation for the mid-latitude but on the other hand threating its hydraulic infrastructures with devastating floods and debris flows.
 
 ![space-1.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/AR/AR_animation.gif)
@@ -20,32 +20,23 @@ Below we apply a dynamical downscaling model, *Weather Research Forecast-Advance
 
 ARs in the  West Coast United States have been intensively observed and investigated given its significant positive/negative influences, especially under the recent 2011-2016 California Drought scenario. 
 
-remote sensing, gauge, aircraft...
+The horizontal structure of AR can be retreivaled from passive microwave remote sensing radiations, which is available from many microwave sensors, including AMSR-E, AMSR2, GMI, SSM/I, SSMIS, TMI, and WindSat. Imageries of AR can be found [here](http://www.remss.com/about/projects/atmospheric-river-watch.html). They really look similar to the famous Japanese drawing [*The Great Wave off Kanagawa*](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa).
 
-Field observations
+This horizontal structure is generally well explained in the context of its placement within the warm conveyor belt of synoptic-scale cyclones (Bao et al. 2006). The vertical structures, which explain the spatial precipitation distribution under orographic enhancement, are revealed through a series of aricraft-based  field campaigns, during which dropsondes were released to record weather data as they descend. The campaigns include:
 
-Specific to dynamical simulation, a framework that accomodates WRF for the region, named  West-WRF, was implemented and tested by the Scripps Institution. 
+1, the California Land-Falling Jets Experiment (CALJET) in 1998
+
+2, the Pacific Land-Falling Jets Experiment (PACJET) in 2001
+
+3, the CalWater intensive observing Experiments in 2015
+
+Besides the aircraft-based observations, the NOAA HydrometeorologicalTestbed has operated gauge-based “Atmospheric River Observatory” (ARO) at two sites, Bodega Bay and Cazadero, CA, since 2006 (White et al. 2009, 2013). The Bodega Bay (BBY) site is situated on the coast at sea level and is designed to monitor horizontal vapor flux, integrated water vapor and horizontal winds in the Atmospheric River low-level jet region as they impinge upon the orographically productive coastal mountain ranges. The Cazadero Site is located north of Bodega Bay at the top of a prominent ridge in the coastal mountain system. Cazadero drains to the South and Wheatfield forks of the Gualala River. The Cazadero site reports precipitation, vertical S-Band radar reflectivity and precipitation drop size distributions during AR conditions at mountaintop.
+
+
+The observatories offered great opportunity to varify and diagnose current dynamical simulation models. A framework that accomodates WRF for the region, named  West-WRF, was implemented and tested by the Scripps Institution. 
 Skills in predicting tropospheric state during AR, AR core structure, and AR precipitation at varying spatial scales and for a comprehensive set of forecast lead times up to seven days were evaluated. Daniel Swain etc. conducted 3 month continuous WRF nonhydrostatic simulations to address an existing gap in knowledge regarding the ability of atmospheric models to simulate the finescale vertical and horizontal structure of atmospheric rivers. 
 
-The simulations were compared to observations from balloon-borne, ground based and remotely sensed measurements. Observed iterms include xxx xxx xxx. 
 
-1, California Land-Falling Jets Experiment (CALJET) in 1998
-
-2, Pacific Land-Falling Jets Experiment (PACJET) in 2001 aircraft-based field campaigns, dozens of drop- sondes were deployed over the Pacific Ocean in and near the LLJ associated with well-defined (IWV . 2 cm) ARs
-
-3, CalWater 2 intensive observing periods CalWater 2015, which has garnered considerable scientific and public interest (Witze 2015)
-
-airborne dropwindsondes from the CalWater140 2 research flights
-
-We will also validate forecasts of local response using observations of precipi-141 tation, vertical wind profiles, and vertically integrated water vapor during AR that impacted Cali-142 fornia’s Russian River watershed (RRW). We will compare West-WRF’s performance in standard143 skill metrics to the performance of GNWP forecasts and small-domain RNWP forecasts.
-
-
-
-
-Others
-
-
-Conslusion
 
 ## Case Description
 The Russian River Basin is a characteristic watershed of the California coast ranges. The river springs from the Laughlin Range and flows southward to Redwood Valley, 
@@ -265,6 +256,17 @@ The variation of forecast accuracy (skill) with lead time (ti) is estimated usin
 ## Discussion
 
 ## Conclusion
+That information should help water managers
+to predict what atmospheric rivers may
+bring. Reservoir engineers in northern California
+typically release precious water from
+their reservoirs in the winter, so as to have
+enough space behind the dam to cope with
+the threat of flooding. With better knowledge
+of when atmospheric rivers might
+arrive and how much water they might carry,
+says Ralph, engineers should be able to manage
+that winter release more effectively
 
 *It is not complicated, it's just a lot of it.* <div style="text-align: right"> -- Richard P. Feynman </div>
 
