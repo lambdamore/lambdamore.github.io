@@ -18,9 +18,9 @@ Below we apply a dynamical downscaling model, *Weather Research Forecast-Advance
 
 ## Related Works
 
-Winter storms in the  West Coast United States have been intensively investigated given its frequent precipitation extremes(both droughts and floods) and economic importances. 
+ARs in the  West Coast United States have been intensively investigated given its positive/negative influences.
 
-Specific to mesoscale dynamical simulation, a framework that accomodates WRF for the region was implemented and tested by the Scripps Institution, named West-WRF. 
+Specific to mesoscale dynamical simulation, a framework that accomodates WRF for the region, named  West-WRF, was implemented and tested by the Scripps Institution. 
 
 Specific contribution of West-WRF
 
@@ -78,7 +78,9 @@ occurrence of any AR included in this study (in either
 ### General Circulation Model Forcings
 
 ### Observations
+airborne dropwindsondes from the CalWater140 2 research flights
 
+We will also validate forecasts of local response using observations of precipi-141 tation, vertical wind profiles, and vertically integrated water vapor during AR that impacted Cali-142 fornia’s Russian River watershed (RRW). We will compare West-WRF’s performance in standard143 skill metrics to the performance of GNWP forecasts and small-domain RNWP forecasts.
 
 ## Model Configuration
 ### WRF Preprocessing System
@@ -257,7 +259,11 @@ During a terrible fever that stuck me last summer,  I wrote a bash script that a
 
 One can write his/her own script file to automate the processes, too. For me, I choose Mathematica to generate the csh script. A detailed tutorial 
 
-## Performance Measurements
+## Skill Metrics
+
+Right answer for the right reason.
+
+It is not considered sufficient to better forecast precipitation while simultaneously displaying larger error in storm scale AR measures
 
 ## Results 
 
