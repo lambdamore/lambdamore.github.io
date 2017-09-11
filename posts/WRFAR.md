@@ -8,7 +8,7 @@ An Atmospheric River(AR) is a narrow corridor or filament of concentrated moistu
 ARs are present in each hemisphere most of the time, with moisture fluxes comparable to some of the major terrestrial rivers(Newell et al. 1992; Zhu
 and Newell 1998). They are often associated with the meridional transport of water and energy, providing water resources for the mid-latitude but on the other hand threating its hydraulic infrastructures with devastating floods and debris flows.
 
-![space-1.jpg](/Users/lambda/Documents/Blog/figures/AR/AR_animation.gif)
+![space-1.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/AR/AR_animation.gif)
 
 *Total Column Water Vapor Kinematics. GIF provided by NOAA's Earth System Research Laboratory.* 
 
