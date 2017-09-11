@@ -18,36 +18,28 @@ Below we apply a dynamical downscaling model, *Weather Research Forecast-Advance
 
 ## Related Works
 
-ARs in the  West Coast United States have been intensively investigated given its positive/negative influences.
-
-Specific to mesoscale dynamical simulation, a framework that accomodates WRF for the region, named  West-WRF, was implemented and tested by the Scripps Institution. 
-
-Specific contribution of West-WRF
-
-including airborne,39 balloon-borne, ground based and remotely sensed measurements have been40 gathered from the CalWater 2 intensive observing periods.  
-
-
-AR location, extent and movement, vertical distributions of wind, water79 vapor and buoyancy, and storm scale patterns of rising/sinking motion
+ARs in the  West Coast United States have been intensively observed and investigated given its significant positive/negative influences for the region, especially under the recent 2011-2016 California Drought scenario. 
 
 
 
+Field observations
 
-Daniel Swan
+Specific to dynamical simulation, a framework that accomodates WRF for the region, named  West-WRF, was implemented and tested by the Scripps Institution. 
+Skills in predicting tropospheric state during AR, AR core structure, and AR precipitation at varying spatial scales and for a comprehensive set of forecast lead times up to seven days were evaluated. Daniel Swain etc. conducted 3 month continuous WRF nonhydrostatic simulations to address an existing gap in knowledge regarding the ability of atmospheric models to simulate the finescale vertical and horizontal structure of atmospheric rivers. 
+
+The simulations were compared to observations from balloon-borne, ground based and remotely sensed measurements. Observed iterms include xxx xxx xxx. 
+
+1, CalWater 2 intensive observing periods
+
+2, California Land-Falling Jets Experiment (CALJET)
+
+3, Pacific Land-Falling Jets Experiment (PACJET)
+
+airborne dropwindsondes from the CalWater140 2 research flights
+
+We will also validate forecasts of local response using observations of precipi-141 tation, vertical wind profiles, and vertically integrated water vapor during AR that impacted Cali-142 fornia’s Russian River watershed (RRW). We will compare West-WRF’s performance in standard143 skill metrics to the performance of GNWP forecasts and small-domain RNWP forecasts.
 
 
-In this investigation, the authors conduct continuous (3 month), large-domain (3600 km 3 3200 km),
-high-resolution (4 km), nonhydrostatic simulations using the Weather Research and Forecasting (WRF) Model
-and compare the observations to previously reported dropsonde observations from the California Land-Falling
-Jets Experiment (CALJET) and the Pacific Land-Falling Jets Experiment (PACJET) in order to address an
-existing gap in knowledge regarding the ability of atmospheric models to simulate the finescale vertical and
-horizontal structure of atmospheric rivers
-
-
-Two of these studies, the California Land-Falling Jets Experiment
-(CALJET) in 1998 and the Pacific Land-Falling Jets Experiment
-(PACJET) in 2001, yielded an unprecedented
-high-resolution in situ dataset describing the vertical
-structure of numerous individual ARs (RNR05)
 
 
 Others
@@ -77,10 +69,10 @@ occurrence of any AR included in this study (in either
 
 ### General Circulation Model Forcings
 
-### Observations
-airborne dropwindsondes from the CalWater140 2 research flights
 
-We will also validate forecasts of local response using observations of precipi-141 tation, vertical wind profiles, and vertically integrated water vapor during AR that impacted Cali-142 fornia’s Russian River watershed (RRW). We will compare West-WRF’s performance in standard143 skill metrics to the performance of GNWP forecasts and small-domain RNWP forecasts.
+
+### AR Observatory
+
 
 ## Model Configuration
 ### WRF Preprocessing System
@@ -264,6 +256,8 @@ One can write his/her own script file to automate the processes, too. For me, I 
 Right answer for the right reason.
 
 It is not considered sufficient to better forecast precipitation while simultaneously displaying larger error in storm scale AR measures
+ 
+The variation of forecast accuracy (skill) with lead time (ti) is estimated using the verification279 matrix procedure.
 
 ## Results 
 
