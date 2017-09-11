@@ -1,6 +1,6 @@
  
- ![cornerjumpshoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornerjumpshoot.jpg)
+ ![samurai](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/drawing/samurai.jpg)
 
- ![cornershoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornershoot.jpg)
+ ![sculpture](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/drawing/sculpture.jpg)
 
 

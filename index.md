@@ -11,3 +11,5 @@
 [婴宁](https://lambdamore.github.io/posts/婴宁)
 
 [Lisp能用来做什么](https://lambdamore.github.io/posts/lisp)
+
+[Graffiti](https://lambdamore.github.io/posts/drawing)
