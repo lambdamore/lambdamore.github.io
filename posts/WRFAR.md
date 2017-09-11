@@ -36,7 +36,10 @@ Besides the aircraft-based observations, the NOAA HydrometeorologicalTestbed ha
 The observatories offered great opportunity to varify and diagnose current dynamical simulation models. A framework that accomodates WRF for the region, named  West-WRF, was implemented and tested by the Scripps Institution. 
 Skills in predicting tropospheric state during AR, AR core structure, and AR precipitation at varying spatial scales and for a comprehensive set of forecast lead times up to seven days were evaluated. Daniel Swain etc. conducted 3 month continuous WRF nonhydrostatic simulations to address an existing gap in knowledge regarding the ability of atmospheric models to simulate the finescale vertical and horizontal structure of atmospheric rivers. 
 
-
+* Overestimate rainfall on windward slope but underestimated on the lee slope(Colle and Mass 2000)
+* Positive moisture bias upstream(Hahn and Mass 2009, Ma et al. 2011)
+* Overpredicting orographic precipitation(Garvert et al., 2005)
+* Wet bias in both short and long term forecast(Chin et al. 2010)
 
 ## Case Description
 The Russian River Basin is a characteristic watershed of the California coast ranges. The river springs from the Laughlin Range and flows southward to Redwood Valley, 
@@ -64,6 +67,18 @@ occurrence of any AR included in this study (in either
 
 ### AR Observatory
 
+#### [NOAA Hydrometeorological Testbed --West Surface Nework](ftp://ftp1.esrl.noaa.gov/psd2/data/)
+
+* 2m air temperature
+* relative humidity
+* 10m horizontal wind
+* precipitation
+
+#### [Upper air soundings from National Weather Service rawinsonde network]()  
+
+#### [COSMOC GPS RO soundings]()
+
+####[SSMIS]()
 
 ## Model Configuration
 ### WRF Preprocessing System
