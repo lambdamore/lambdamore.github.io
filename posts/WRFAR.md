@@ -14,7 +14,9 @@ and Newell 1998). They are often associated with the meridional transport of wat
 
 By indicating the comparability between the elusive atmospheric dynamic pattern to the common "river", the AR name hit a big success in marketing meteorology to the public. However, popularity comes with misunderstandings. The name "river" leaves the impression of long travelling moisture contributing to the heavy precipitation, which is proved to be misleading through idealized case study and Lagrangian analysis. 
 
-Below we apply a dynamical downscaling model, *Weather Research Forecast-Advanced Research WRF*(WRF-ARW), to study the circulation dynamics and its associated precipitation distribution of a typical AR event in the West Coast United States. The purpose of this practice is to illustrate the extratropical cyclone theory and prepare myself for the upcoming work of assimilating remote sensing precipitation data for better winter storm dynamical simulation and forecast.
+ the precipitation resulting from AR remains62 poorly forecast (Lavers et al. 2016; Wick et al. 2013; Junker et al. 2009). 
+
+Below we apply a dynamical downscaling model, *Advanced Research Weather Research Forecast*(WRF-ARW) model, to study the circulation dynamics and its associated precipitation distribution of a typical AR event in the West Coast United States. The purpose of this practice is to illustrate the extratropical cyclone theory and prepare myself for the upcoming work of assimilating remote sensing precipitation data for better winter storm dynamical simulation and forecast.
 
 ## Related Works
 
@@ -66,19 +68,24 @@ occurrence of any AR included in this study (in either
 
 
 ### AR Observatory
+Observaitions of different sources were used for model performance evaluation, including:
 
-#### [NOAA Hydrometeorological Testbed --West Surface Nework](ftp://ftp1.esrl.noaa.gov/psd2/data/)
+* [NOAA Hydrometeorological Testbed --West Surface Nework](https://hmt.noaa.gov/)
+ 	+ 2m air temperature	
+ 	+ relative humidity
+ 	+ 10m horizontal wind
+ 	+ precipitation
 
-* 2m air temperature
-* relative humidity
-* 10m horizontal wind
-* precipitation
+* [Upper air soundings from National Weather Service rawinsonde network]()
 
-#### [Upper air soundings from National Weather Service rawinsonde network]()  
+* [SSMIS]()
 
-#### [COSMOC GPS RO soundings]()
+* [COSMOC GPS Radio Occultation soundings](http://www.cosmic.ucar.edu/ro.html) 
 
-####[SSMIS]()
+[Radio Occultation](https://en.wikipedia.org/wiki/Radio_occultation)
+very important. Ma, et al 2011
+
+In the case of the neutral atmosphere (below the ionosphere) information on the atmosphere's temperature, pressure and water vapour content can be derived giving radio occultation data applications in meteorology.
 
 ## Model Configuration
 ### WRF Preprocessing System
