@@ -9,15 +9,15 @@ Here is some interesting demos.
 
 ## Original Figures
 
- ![original](https://lambdamore.github.io/figures/AdaIN/original)
+ ![original](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/AdaIN/original.jpg)
 
 
 
 
 ## The Style I wish to simulate
- ![style](https://lambdamore.github.io/figures/AdaIN/style)
+ ![style](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/AdaIN/style.jpg)
 
 
 ## Results
 
- ![result](https://lambdamore.github.io/figures/AdaIN/result)
+ ![result](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/AdaIN/result.jpg)
