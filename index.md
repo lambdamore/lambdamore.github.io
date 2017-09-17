@@ -1,4 +1,6 @@
 
+[Playing with Arbitrary Style Transfer Deep Neural Network ](https://lambdamore.github.io/posts/AdaIN)
+
 [篮球](https://lambdamore.github.io/posts/basketball)
 
 [WRF Simulation of Atmospheric River](https://lambdamore.github.io/posts/WRFAR)
