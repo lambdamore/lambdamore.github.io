@@ -1,18 +1,23 @@
- 
- ![cornerjumpshoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornerjumpshoot.jpg)
+# Playing with Arbitrary Style Transfer Deep Neural Network 
 
- ![cornershoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/cornershoot.jpg)
 
- ![dunk1](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/dunk1.jpg)
+I am having fun with the work presented by **X. Huang, S. Belongie, "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization", arXiv:1703.06868 (2017)**. 
 
- ![dunk2](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/dunk2.jpg)
+The network provided here offered a quick transfer of style between figures. The trained network was imported from Mathematica 11.2 NetModel portion. 
 
- ![lefthand2](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/lefthand2.jpg)
+Here is some interesting demos.
 
- ![lefthand](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/lefthand.jpg)
+## Original Figures
 
- ![leftshoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/leftshoot.jpg)
+ ![cornerjumpshoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/AdaIN/original.pdf)
 
- ![middleshoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/middleshoot.jpg)
 
- ![righthand](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/basketball/righthand.jpg)
+
+
+## The Style I wish to simulate
+ ![cornershoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/AdaIN/style.pdf)
+
+
+## Results
+
+ ![cornershoot](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/AdaIN/result.pdf)
