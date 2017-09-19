@@ -11,7 +11,7 @@ otherwise is to demean the Buddha.. .which is to demean oneself.*
 
 我很想把这句话分享给本科时候的一位启蒙恩师，他教我翻开第一本哲学原著，审视真正的数学，告诉我最锋利的东西不是激光而是戴德金分割。虽然我把他视作人生的教父，但是我们俩气质上有一些截然不同的地方，他有一种田园情结，这种情节里暗含着对技术的敌意，而我是一个cyber punk。
 
-![differ](/Users/lambda/Documents/Blog/figures/programming/difference.jpg)
+![differ](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/programming/difference.jpg)
 
 
 
