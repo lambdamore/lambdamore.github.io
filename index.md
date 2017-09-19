@@ -1,5 +1,3 @@
-[计算机里的精灵](https://lambdamore.github.io/posts/ghostincomputer)
-
 [Playing with Arbitrary Style Transfer Deep Neural Network ](https://lambdamore.github.io/posts/AdaIN)
 
 [篮球](https://lambdamore.github.io/posts/basketball)
