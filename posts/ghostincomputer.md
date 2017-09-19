@@ -9,10 +9,15 @@ of a digital computer or the gears of a cycle transmission as he does at the top
 otherwise is to demean the Buddha.. .which is to demean oneself.*
 
 
-我很想把这句话分享给本科时候的一位启蒙恩师，他教我翻开第一本哲学原著，审视真正的数学，告诉我最锋利的东西不是激光而是戴德金分割。虽然我把他视作人生的教父，但是我们俩气质上有一些截然不同的地方，他有一种田园情结，这种情节里暗含着对技术的敌意，而我是一个cyber punk。
+我很想把这句话分享给本科时候的一位启蒙恩师，他教我翻开第一本哲学原著，审视真正的数学，告诉我最锋利的东西不是激光而是戴德金分割。虽然把他视作人生的教父，但是我们俩气质上有一些截然不同的地方，他有一种田园情结，这种情节里暗含着对技术的敌意，而我是一个cyber punk。
 
 ![differ](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/programming/difference.jpg)
 
+这种区别，对“力量” 尼安德特人 智人。 我的夫人。 现代人。对技术天然的敌意。
+
+听过很多道理，却依然过不好这一生。废话，人生即使如此容易过，也会不让它好过。禅宗公案。
+
+读过的书并没有自然而然地教会我怎样活下去。这就像会推导Navier-Stokes方程组不表示理解大气环流一样。生活可以被视为某种哲学观的应用题，可以被视为柴米油盐，也可以被视为禅宗公案。可是生活便是生活，比喻是偷换概念。
 
 
 可是他也高楼的非人性。泥土。
@@ -26,6 +31,11 @@ otherwise is to demean the Buddha.. .which is to demean oneself.*
 *2）将两个认识放在一起对照，不管它们如何简单或者复杂，在这样做时并不将它们合而为一。由此得到有关它们的相互关系的认识。*
 
 *3）将有关认识与那些在实际中和它们同在的所有其他认识隔离开，这就是抽象，所有具有普遍性的认识都是这样得到的。”*
+
+Lisp
+
+## 编程的风格
+
 
 learn to go back and forth through hierarchical models of different complexity 
 (from conceptual to "reality") to form understandings
