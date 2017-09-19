@@ -5,7 +5,7 @@ I am having fun with the work presented by **X. Huang, S. Belongie, "Arbitrary S
 
 The network provided here offered a quick transfer of style between figures. The trained network was imported from Mathematica 11.2 NetModel portion. 
 
-Here is some interesting demos.
+Here is an interesting demo.
 
 ## Original Figures
 
