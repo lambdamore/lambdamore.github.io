@@ -8,18 +8,11 @@
 of a digital computer or the gears of a cycle transmission as he does at the top of a mountain or in the petals of a flower. To think 
 otherwise is to demean the Buddha.. .which is to demean oneself.*
 
-
-我很想把这句话分享给本科时候的一位启蒙恩师，他教我翻开第一本哲学原著，审视真正的数学，告诉我最锋利的东西不是激光而是戴德金分割。虽然把他视作人生的教父，但是我们俩气质上有一些截然不同的地方，他有一种田园情结，这种情节里多少暗含着一些对技术的不信任，而我是一个cyber punk。
-
+我很想把这句话分享给本科时候的一位启蒙恩师，他教我翻开第一本哲学原著，审视真正的数学，告诉我最锋利的东西不是激光而是戴德金分割。虽然把他视作人生的教父，但是我们俩气质上有一些截然不同的地方，他有一种田园情结，这种情节里多少暗含着一些对“技术”的不信任，而我向往做一个cyber punk。
 ![differ](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/programming/difference.jpg)
+科学技术是第一生产力。
+武侠小说 武功秘籍 深度训练。*听过很多道理，却依然过不好这一生。*废话，人生即使如此容易过，也会不让它好过。禅宗公案。肤浅。公案。读过的书并没有自然而然地教会我怎样活下去。这就像会推导Navier-Stokes方程组不表示理解大气环流一样。生活可以被视为某种哲学观的应用题，可以被视为柴米油盐，也可以被视为禅宗公案。可是生活便是生活，比喻是偷换概念。
 
-
-
-这种区别，对“力量” 尼安德特人 智人。 我的夫人。 现代人。对技术天然的敌意。
-
-听过很多道理，却依然过不好这一生。废话，人生即使如此容易过，也会不让它好过。禅宗公案。
-
-读过的书并没有自然而然地教会我怎样活下去。这就像会推导Navier-Stokes方程组不表示理解大气环流一样。生活可以被视为某种哲学观的应用题，可以被视为柴米油盐，也可以被视为禅宗公案。可是生活便是生活，比喻是偷换概念。
 
 We’re not ruled by engineers, not yet, but they have become the dominant force in American life – the highest, most influential tier of our elite.
 
