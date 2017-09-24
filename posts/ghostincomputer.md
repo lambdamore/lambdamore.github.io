@@ -14,7 +14,7 @@ otherwise is to demean the Buddha.. .which is to demean oneself.*
 往深一点看，我的情结来自对力量的向往，因为我要设法谋生，而我老师的认识来自对人类滥用力量的担忧，毕竟他不需要为自己过多担忧。不论如何，我们进行讨论的语境依然是融洽的。语言这种东西，把它探究得太远迟早会崩塌(Paul Graham)，所以语境的搭建尤其重要，不幸的是我仍不断地碰到那些令人筋疲力竭的争论，两边一开始就不打算用同样的词语表述相似的东西。满地散落的卡片，搭不起一个精巧的纸牌屋。
 
 
-
+ The purpose of a computer was to do massive computation, to augment our memories and empower our minds.
 
 你可以一直呆在一种低等的抽象阶段，这样你永远不会有更高层次的抽象，given the limitation of the hierarchy that human perform his thinking, you can not reach higher level understanding. let alone the higher level than higher abstraction, that is, to go back and forth between hierarchical models, to see what you have gained through abstraction and what you have lost through abstraction.
 

@@ -5,4 +5,4 @@
 	
 
 	kmmmmmmmmmmmmm
-<div style="text-align: right"> — First code attempt by 恬妞 while she walks through the laptop, 2017 </div>
+<div style="text-align: right"> — First coding attempt by 恬妞 when she walks through the laptop, 2017 </div>
