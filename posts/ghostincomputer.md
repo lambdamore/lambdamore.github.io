@@ -1,5 +1,7 @@
 # 计算机里的精灵
 
+
+
 这两天在重读《禅与摩托车维修艺术》，这次是垃圾堆旁捡到的英文版。读到第八页，又找到了那句话：
 
 *“佛陀或是耶稣坐在电脑和变速齿轮旁修行，会像坐在莲花座和山顶上一样自在。如果不这么认为，那无异于亵渎了佛陀——也就是亵渎了你自己。”*
@@ -8,11 +10,17 @@
 of a digital computer or the gears of a cycle transmission as he does at the top of a mountain or in the petals of a flower. To think 
 otherwise is to demean the Buddha.. .which is to demean oneself.*
 
-我很想把这句话分享给本科时候的一位启蒙恩师，他教我翻开第一本哲学原著，窥视真正的数学，告诉我最锋利的东西不是激光而是戴德金分割，警告我宇宙有多深遂，两性关系就有多复杂。虽然把他视作人生的教父，但是我们俩气质上有一些截然不同的地方，他有一种田园情结，这种情结里多少暗含着一些对技术的不信任，而我向往做一个cyber punk。
+我很想把这句话分享给本科时候的一位启蒙恩师，他教我翻开第一本哲学原著，告诉我最锋利的东西不是激光而是戴德金分割，警告我宇宙有多深遂，两性关系就有多复杂。虽然把他视作人生的教父，但是我们气质上有一些截然不同的地方，他有一种田园情结，这种情结里多少暗含着一些对技术的不信任，而我向往做一个cyber punk。
 ![differ](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/programming/difference.jpg)
 
-往深一点看，我的情结来自对力量的向往，因为我要设法谋生，而我老师的认识来自对人类滥用力量的担忧，毕竟他不需要为自己过多担忧。不论如何，我们进行讨论的语境依然是融洽的。语言这种东西，把它探究得太远迟早会崩塌(Paul Graham)，所以语境的搭建尤其重要，不幸的是我仍不断地碰到那些令人筋疲力竭的争论，两边一开始就不打算用同样的词语表述相似的东西。满地散落的卡片，搭不起一个精巧的纸牌屋。
+武功与力量，制衡。实际上我只是单纯向往力量。
 
+
+A proper mental attitude toward the material to be studied is the primary requirement. 
+
+往深一点看，我的情结来自对力量的向往，而他的观念来自对人类滥用力量的担忧。不论如何，我们进行讨论的语境依然是融洽的。语言这种东西，把它探究得太远迟早会崩塌(Paul Graham)，所以语境的搭建尤其重要，不幸的是我仍不断地碰到那些令人筋疲力竭的争论，两边一开始就不打算用同样的词语表述相似的东西。满地散落的卡片，搭不起一个精巧的纸牌屋。
+
+Many students imagine that they are having trouble with physics when actually the difficulty may be with their mathematical background which perhaps is too rusty to be useful. 
 
  The purpose of a computer was to do massive computation, to augment our memories and empower our minds.
 
