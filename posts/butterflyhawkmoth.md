@@ -83,6 +83,7 @@ and Y is uniformly distributed in an interval of (-10^-5,10^-5).
 Below I show the projected trajectories on the coordinate planes. 
 
 ![ensemble.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzensemble.jpg)
+
 ## *However, Misleading is Worse Than Nothing*
 
 
