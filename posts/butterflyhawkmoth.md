@@ -41,7 +41,7 @@ Given the initial condition, I can draw the trajectory of the dynamical system. 
  	
 The initial *y* differs slightly by 0.000001. It seems that the trajectories are generally indistinguishable. But, if I compare the Euclidean Distance between the trajectories, the result is a little bit surprising:
 
-![lorenzdistance.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/)
+![lorenzdistance.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzdistance.jpg)
 
 Different magnitude of purtubation were added to initial *y*. For pertubations larger than 10^-16, we don't need to wait too long before the divergence of the two trajectories.  Similar things happen by tuning initial *x* or *z*. They diverge, then they never come back. The initial closeness does not guarantee likeliness forever. Just as marriage.
 
@@ -53,7 +53,7 @@ The divergent time here did not exceed 40 steps. It is reported that if we can i
 ### On the Value of Temporal Mean
 The general pattern of the  trajectories are quite alike although they are not close enough in the Euclidean distance sense. A mathematical translation for the likeliness is that their temporal average location should be close. Below I do a uniform convolution over the trajectory to compare the temporal mean of two trajectories starting from pertubated initials:
 
-![space-1.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/)
+![temporalmean.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzetemporalmean.jpg)
 
 
 
