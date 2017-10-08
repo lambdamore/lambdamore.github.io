@@ -80,9 +80,11 @@ and Y is uniformly distributed in an interval of (-10^-5,10^-5).
 
 150 samples were generated and evolved for 500 steps, along with the God's trajectory. 
 
-Below I show the projected trajectories on the coordinate planes. 
+Below I show the projected trajectories on the coordinate planes. Only part of the ensemble members were drawn for clarity.
 
 ![ensemble.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzensemble.jpg)
+
+A very natural question arises that **Could Ensemble Forecasts Provide Better Prediction in Deterministic Sense?**
 
 ## *However, Misleading is Worse Than Nothing*
 
