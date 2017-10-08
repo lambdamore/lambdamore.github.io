@@ -7,20 +7,20 @@
 
 The interrogation of a deterministic physical view can be conducted in different ways. Despite the underlying **Principle of Uncertainty** rooted in quantum mechanics, even in a Newtonian playground, people have long realized the limitation of predictability for dynamic systems. 
 
-The limitation is termed under various names, such as *Laplace Demon*(Laplace), *Three Body Dilemma*(Henry Poincare), *Butterfly Effect*(Lorenz), etc.. The last one is in fact over exaggerating although it successfully catched the public's eyes(See Orrell, Smith, etc. 2001 and Stephen Wolfram 2002).  
+The limitation is termed under various names, such as *Laplace Demon* (Laplace), *Three Body Dilemma* (Henri Poincaré), *Butterfly Effect* (Lorenz), etc.. The last one is in fact over exaggerating although it successfully catched the public's eyes(See Orrell, Smith, etc. 2001 and Stephen Wolfram 2002).  
 
-This post try to illustrate the idea of the limitation with numerical simulations, followed by a discussion of its effects on the unstable foundation of "***Climate Science***". 
+This post tries to illustrate the idea of the limitation with numerical simulations, followed by a discussion of its effects on the unstable foundation of "***Climate Science***". 
 
 
 ## Toy Model -- the Lorenz System
 
-The *Lorenz System* is selected here for its simplicity. It is derived from the **Oberbeck-Boussinesq Approximation** to the equations describing fluid circulation in a shallow layer of fluid, heated uniformly from below and cooled uniformly from above. This fluid circulation is known as **Rayleigh-Bénard Convection**. The fluid is assumed to circulate in two dimensions (vertical and horizontal) with periodic rectangular boundary conditions(wikipedia). The system is described as follows:
+The *Lorenz System* is selected here for its rich exploration heritage. It is derived from the **Oberbeck-Boussinesq Approximation** to the equations describing fluid circulation in a shallow layer of fluid, heated uniformly from below and cooled uniformly from above. This fluid circulation is known as **Rayleigh-Bénard Convection**. The fluid is assumed to circulate in two dimensions (vertical and horizontal) with periodic rectangular boundary conditions(wikipedia). The system is described as follows:
 
 ![lorenzsystem.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzsystem.jpg)
 
 ## Numerical Simulation
 
-The equations can not be analytically solved. A numerical simulator using *Mathematica* is coded as follows:
+The equations can not be analytically integrated. A numerical simulator using *Mathematica* is coded as follows:
 
 	LorenzSystemSolution[x0_,y0_,z0_,a_;3,b_:26.5,c_:1]:=
 	Block[{x,y,z,t,tend,eq,init,xs,ys,zs},
@@ -33,13 +33,13 @@ The equations can not be analytically solved. A numerical simulator using *Mathe
 			MaxSteps -> \[Infinity]];
 		Table[{xs[t], ys[t], zs[t]}, {t, 0, tend}]]
 		
-I set the default parameters to a=3, b=26.5, c=1. There is rich literature considering the parameter settings and properties of the system. For those who are interested, please refer to Hirsch, Smale & Devaney, 2003. 
+I set the default parameters to a=3, b=26.5, c=1. There is many previous works considering the parameter settings and properties of the system. For those who are interested, Hirsch, Smale & Devaney, 2003 gives good supplements. 
 
 Given the initial condition, I can draw the trajectory of the dynamical system. For instance:
  
 ![lorenzsimulation.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzsimulation.jpg)
  	
-The initial *y* differs slightly by 0.000001. It seems that the trajectories are generally indistinguishable. But, if I compare the Euclidean Distance between the trajectories, the result is a little bit surprising:
+The initial *x* and *z* are identical for the two realizations, *y* differs slightly by 0.000001. It seems that the two trajectories are generally indistinguishable. But, if I compare the Euclidean Distance between the trajectories, for different magnitude of pertubations, the result is a little bit surprising:
 
 ![lorenzdistance.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzdistance.jpg)
 
@@ -57,17 +57,32 @@ The general pattern of the  trajectories above are quite alike although they are
 
 ![temporalmean.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzetemporalmean.jpg)
 
-As the temporal resolution expands, they two trajectories are becoming more and more close. The local maximum divergence is due to the transition of two phases(shown as two evolving centers). In the long term mean sense, the system is predictable.
+As the temporal resolution expands, the two trajectories are becoming more and more close in L2	sense. The local maximum divergence is due to the transition of phases(shown as two evolving centers). So, we can say that, **in the long term mean sense, the system is predictable**.
 
 
 ## *What no-one could Describe, Is Here Accomplished*
 
 
-It is natural to measure our uncertainty about a target variable/phenomenon with probability distribution. The uncertainty can converge given new knowledge. So, even that we can not have a determinisitic estimation of initials, we do have a probabilistic estimation of it. We can feed the initial distribution to the dynamic system to reach the probability distribution of the trajectory. This is the idea behind ensemble forecast. 
+It is natural to measure our understanding about a target variable/phenomenon with probability distribution. Even that we can not have a determinisitic estimation of initials, we do have a probabilistic estimation of it. While the determinisitc result can be proven to be false easily, the probabilistic one is logically **right** since it's a measuring of our mind rather than nature.  
 
+We can feed the initial distribution to the dynamic system to reach the probability distribution of the trajectory. This is the idea behind ensemble forecast. 
 
+Assume that there is *God* in the Lorenz System. "He" is omniscient in observation, dynamical understanding and computing capacity(Roman, etc.. 2014). "He" knows that the system starts from (x=0,y=1,z=1) and follows the differential equation set perfectly. He can do simulation arbitrarily fast. 
 
+I, as the imperfect imitation of him, try to simulate the system with my insuffient knowledge of the initial condition. Since I know my limitations. I decide to take the probabilisitc strategy. My idea is to sample from my probability distribution of the initials and use my whole ensemble trajectories to infer the system's characteristics. 
 
+To start, assume that my prior probability estimation of the initial is:
+	
+	P(X=0)=1
+	P(Z=1)=1
+
+and Y is uniformly distributed in an interval of (-10^-5,10^-5). 
+
+150 samples were generated and evolved for 500 steps, along with the God's trajectory. 
+
+Below I show the projected trajectories on the coordinate planes. 
+
+![ensemble.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzensemble.jpg)
 ## *However, Misleading is Worse Than Nothing*
 
 
