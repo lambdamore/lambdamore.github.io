@@ -16,7 +16,7 @@ This post try to illustrate the idea of the limitation with numerical simulation
 
 The *Lorenz System* is selected here for its simplicity. It is derived from the **Oberbeck-Boussinesq Approximation** to the equations describing fluid circulation in a shallow layer of fluid, heated uniformly from below and cooled uniformly from above. This fluid circulation is known as **Rayleigh-Bénard Convection**. The fluid is assumed to circulate in two dimensions (vertical and horizontal) with periodic rectangular boundary conditions(wikipedia). The system is described as follows:
 
-![lorenzsystem.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/)
+![lorenzsystem.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzsystem.jpg)
 
 ## Numerical Simulation
 
@@ -37,7 +37,7 @@ I set the default parameters to a=3, b=26.5, c=1. There is rich literature consi
 
 Given the initial condition, I can draw the trajectory of the dynamical system. For instance:
  
-![lorenzsimulation.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/)
+![lorenzsimulation.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzsimulation.jpg)
  	
 The initial *y* differs slightly by 0.000001. It seems that the trajectories are generally indistinguishable. But, if I compare the Euclidean Distance between the trajectories, the result is a little bit surprising:
 
