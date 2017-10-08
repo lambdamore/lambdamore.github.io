@@ -43,25 +43,46 @@ The initial *y* differs slightly by 0.000001. It seems that the trajectories are
 
 ![lorenzdistance.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzdistance.jpg)
 
-Different magnitude of purtubation were added to initial *y*. For pertubations larger than 10^-16, we don't need to wait too long before the divergence of the two trajectories.  Similar things happen by tuning initial *x* or *z*. They diverge, then they never come back. The initial closeness does not guarantee likeliness forever. Just as marriage.
+Purtubations of different magnitude were added to initial *y*. For pertubations larger than 10^-16, we don't need to wait too long before the divergence of the two trajectories.  Similar things happen by tuning initial *x* or *z*. They diverge, then they never come back. The initial closeness does not guarantee likeliness forever. Just as marriage.
 
 The divergent time here did not exceed 40 steps. It is reported that if we can initialize the Lorenz System with 4180 digit multiple precision, we can reach reliable simulation for 100000 steps, according to a 1200 CPU parallel simulation experiment(Shijun Liao, etc.. 2013). 
 
 
 ## *What could Not be Achieved, Here Comes to Pass*
 
+Once the "realistic" and "simulated" trajectories start to diverge, the following realizations are evolving from distinct initials. This makes a determinisitic comparison meaningless. But does it mean that they provide no information? 
+
 ### On the Value of Temporal Mean
-The general pattern of the  trajectories are quite alike although they are not close enough in the Euclidean distance sense. A mathematical translation for the likeliness is that their temporal average location should be close. Below I do a uniform convolution over the trajectory to compare the temporal mean of two trajectories starting from pertubated initials:
+The general pattern of the  trajectories above are quite alike although they are not close enough in the Euclidean Distance sense. A mathematical translation for the likeliness is that their temporal average location should be close. Below I do a uniform convolution over the trajectories to compare the temporal mean of them. 
 
 ![temporalmean.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzetemporalmean.jpg)
 
+As the temporal resolution expands, they two trajectories are becoming more and more close. The local maximum divergence is due to the transition of two phases(shown as two evolving centers). 
 
 
-### On the Value of Ensemble
+
+
+
 
 ## *What no-one could Describe, Is Here Accomplished*
 
+### On the Value of Ensemble
+It is natural to measure our uncertainty about a target variable/phenomenon with probability distribution. The uncertainty can converge given new knowledge. So, even that we can not have a determinisitic estimation of initials, we do have a probabilistic estimation of it. We can feed the initial distribution to the dynamic system to reach the probability distribution of the trajectory. This is the idea behind ensemble forecast. 
+
+
+## *However, Misleading is Worse Than Nothing*
+
+
 ## Conclusion
+
+Consider that I have the **exact** initial condition, which is fed to the **exact** model, and calculated with **exact** simulation algorithm, I can know both the past and future of a mechanical world. These capacities are named by Roman(Roman, etc.. 2014) as:
+
+1. Observational Omniscience: one is able to determine the true initialcondition of the target system.
+2. Dynamical Omniscience: one is able to formulate the true time evolution ft 
+of the target system.
+3. Computational Omniscience: one is able to calculate the system accurately for any arbitrarily fast.
+
+
 That information should help water managers
 to predict what atmospheric rivers may
 bring. Reservoir engineers in northern California
