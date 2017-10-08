@@ -1,3 +1,5 @@
+[蝴蝶效应与蛾子效应](https://lambdamore.github.io/posts/butterflyhawkmoth.md)
+
 [Weekend](https://lambdamore.github.io/posts/weekend)
 
 [Playing with Arbitrary Style Transfer Deep Neural Network ](https://lambdamore.github.io/posts/AdaIN)
