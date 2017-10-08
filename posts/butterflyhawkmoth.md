@@ -84,9 +84,13 @@ Below I show the projected trajectories on the coordinate planes. Only part of t
 
 ![ensemble.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzensemble.jpg)
 
-A very natural question arises that **Could Ensemble Forecasts Provide Better Prediction in Deterministic Sense?** A general answer to this question is **Yes, using ensemble mean**. Below I draw the
+A very natural question arises that **Could Ensemble Forecasts Provide Better Prediction in Deterministic Sense?** A general answer to this question is **Yes, using ensemble mean**:
 
 ![benefits.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzbenefitofensemble.jpg)
+
+The decease of RMSE is puerly due to statistics rather than any physical improvements. A more detailed exploration will link it to the **Law of Large Numbers**. We are still faced with the trajectory divergence problem, although the divergence is a liitle bit more converged through averaging ensemble members. 
+
+
 
 ## *However, Misleading is Worse Than Nothing*
 
