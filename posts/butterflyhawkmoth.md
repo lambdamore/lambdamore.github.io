@@ -84,7 +84,9 @@ Below I show the projected trajectories on the coordinate planes. Only part of t
 
 ![ensemble.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzensemble.jpg)
 
-A very natural question arises that **Could Ensemble Forecasts Provide Better Prediction in Deterministic Sense?**
+A very natural question arises that **Could Ensemble Forecasts Provide Better Prediction in Deterministic Sense?** A general answer to this question is **Yes, using ensemble mean**. Below I draw the
+
+![benefits.jpg](https://raw.githubusercontent.com/lambdamore/lambdamore.github.io/master/figures/lorenz/lorenzbenefitofensemble.jpg)
 
 ## *However, Misleading is Worse Than Nothing*
 
