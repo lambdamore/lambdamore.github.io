@@ -1,4 +1,4 @@
-[蝴蝶效应与蛾子效应](https://lambdamore.github.io/posts/butterflyhawkmoth)
+[蝴蝶效应与蛾子效应](https://lambdamore.github.io/posts/butterflyhawkmoth_I)
 
 [Weekend](https://lambdamore.github.io/posts/weekend)
 

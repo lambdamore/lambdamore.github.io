@@ -1,5 +1,5 @@
 
-# Butterfly Effect and Hawkmoth Effect
+# Butterfly Effect and Hawkmoth Effect (I)
 
 <div style="text-align: right"> BX Pan </div>
 
@@ -9,7 +9,7 @@ The interrogation of a deterministic physical view can be conducted in different
 
 The limitation is termed under various names, such as *Laplace Demon* (Laplace), *Three Body Dilemma* (Henri Poincaré), *Butterfly Effect* (Lorenz), etc.. The last one is in fact over exaggerating although it successfully catched the public's eyes(See Orrell, Smith, etc. 2001 and Stephen Wolfram 2002).  
 
-This post tries to illustrate the idea of the limitation with numerical simulations, followed by a discussion of its effects on the unstable foundation of "***Climate Science***". 
+This post tries to illustrate the idea of the limitation with numerical simulations(in Part I), followed by a discussion of its effects on the unstable foundation of "***Climate Science***"(in Part II). 
 
 
 ## Toy Model -- the Lorenz System
@@ -33,7 +33,7 @@ The equations can not be analytically integrated. A numerical simulator using *M
 			MaxSteps -> \[Infinity]];
 		Table[{xs[t], ys[t], zs[t]}, {t, 0, tend}]]
 		
-I set the default parameters to a=3, b=26.5, c=1. There is many previous works considering the parameter settings and properties of the system. For those who are interested, Hirsch, Smale & Devaney, 2003 gives good supplements. 
+I set the default parameters to a=3, b=26.5, c=1. There are many works considering the parameter settings and properties of the system. For those who are interested, Hirsch, Smale & Devaney, 2003 gives good supplements. 
 
 Given the initial condition, I can draw the trajectory of the dynamical system. For instance:
  
@@ -63,13 +63,11 @@ As the temporal resolution expands, the two trajectories are becoming more and m
 ## *What no-one could Describe, Is Here Accomplished*
 
 
-It is natural to measure our understanding about a target variable/phenomenon with probability distribution. Even that we can not have a determinisitic estimation of initials, we do have a probabilistic estimation of it. While the determinisitc result can be proven to be false easily, the probabilistic one is logically **right** since it's a measuring of our mind rather than nature.  
-
-We can feed the initial distribution to the dynamic system to reach the probability distribution of the trajectory. This is the idea behind ensemble forecast. 
+It is natural to measure our understanding about a target variable/phenomenon with probability distribution. Even that we can not have a determinisitic estimation of initials, we do have a probabilistic estimation of it. While the determinisitc result can be proven to be false easily, the probabilistic one is always logically **right** since it's a measuring of our mind rather than nature.  We can feed the initial distribution to the dynamic system to reach the probability distribution of the trajectory. This is the idea behind ensemble forecast. 
 
 Assume that there is *God* in the Lorenz System. "He" is omniscient in observation, dynamical understanding and computing capacity(Roman, etc.. 2014). "He" knows that the system starts from (x=0,y=1,z=1) and follows the differential equation set perfectly. He can do simulation arbitrarily fast. 
 
-I, as the imperfect imitation of him, try to simulate the system with my insuffient knowledge of the initial condition. Since I know my limitations. I decide to take the probabilisitc strategy. My idea is to sample from my probability distribution of the initials and use my whole ensemble trajectories to infer the system's characteristics. 
+I, as the imperfect imitation of him, try to simulate the system with my insuffient knowledge of the initial condition. Since I know my limitations, I decide to take the probabilisitc strategy. My idea is to sample from my probability distribution of the initials and use my whole ensemble trajectories to infer the system's characteristics. 
 
 To start, assume that my prior probability estimation of the initial is:
 	
@@ -92,7 +90,16 @@ The decease of RMSE is puerly due to statistics rather than any physical improve
 
 
 
-## *However, Misleading is Worse Than Nothing*
+
+## Comparing Lorenz System and Climate System
+
+The Lorenz System above is a pretty simple dynamic system. The Climate System is much more complicated that involves the dynamics and interaction of atmosphere, ocean and landsurface. Also, the climate system is an open system and recieves the forcing from out space and inner geological transitions. However, for certain spatial temporal scale, they are comparable. Relevations can be ignited through the comparison. 
+
+
+
+With the necessary arguments established above, I can now start 
+
+*However, Misleading is Worse Than Nothing*
 
 
 ## Conclusion
