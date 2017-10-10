@@ -1,4 +1,6 @@
-[蝴蝶效应与蛾子效应-Part 1](https://lambdamore.github.io/posts/butterflyhawkmoth_I)
+[Butterfly & Hawkmoth -Part 2](https://lambdamore.github.io/posts/butterflyhawkmoth_II)
+
+[Butterfly & Hawkmoth -Part 1](https://lambdamore.github.io/posts/butterflyhawkmoth_I)
 
 [Weekend](https://lambdamore.github.io/posts/weekend)
 
