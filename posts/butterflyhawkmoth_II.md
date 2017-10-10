@@ -3,7 +3,9 @@
 
 <div style="text-align: right"> BX Pan </div>
 
-##Recall of the Previous Post
+## Recall of the Previous Post
+
+[Butterfly & Hawkmoth -Part 1](https://lambdamore.github.io/posts/butterflyhawkmoth_I)
 
 The interrogation of a deterministic physical view can be conducted in different ways. Despite the underlying **Principle of Uncertainty** rooted in quantum mechanics, even in a Newtonian playground, people have long realized the limitation of predictability for dynamic systems. 
 
