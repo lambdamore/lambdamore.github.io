@@ -1,15 +1,38 @@
 
-# Butterfly Effect and Hawkmoth Effect (I)
+# Butterfly Effect and Hawkmoth Effect (II)
 
 <div style="text-align: right"> BX Pan </div>
 
-## Motivation
+##Recall of the Previous Post
 
 The interrogation of a deterministic physical view can be conducted in different ways. Despite the underlying **Principle of Uncertainty** rooted in quantum mechanics, even in a Newtonian playground, people have long realized the limitation of predictability for dynamic systems. 
 
 The limitation is termed under various names, such as *Laplace Demon* (Laplace), *Three Body Dilemma* (Henri Poincaré), *Butterfly Effect* (Lorenz), etc.. The last one is in fact over exaggerating although it successfully catched the public's eyes(See Orrell, Smith, etc. 2001 and Stephen Wolfram 2002).  
 
 This post tries to illustrate the idea of the limitation with numerical simulations(in Part I), followed by a discussion of its effects on the unstable foundation of "***Climate Science***"(in Part II). 
+
+The main features of dynamical systems theory (e.g. Smale, 1967;
+Arnol’d, 1983) that are important for the study of climate
+have been summarized by Ghil et al. (1991) and Ghil and
+Robertson (2000). T
+
+## The Climate System
+The atmosphere
+has a characteristic time of days-to-weeks in terms of
+the life cycle of extratropical weather systems. The global
+mixing of atmospheric trace gases, on the other hand, takes
+one or more years. The meanders and rings of the major
+wind-driven currents are the oceanic counterpart of weather
+systems; their characteristic time is as short as months to
+years. Temperature and salinity contrasts, on the other hand,
+drive the oceans’ overturning circulation; its characteristic
+time is as long as centuries to millennia. Snow cover and
+sea ice have a huge seasonal cycle, as well as sub- and interannual
+variability, while continental ice sheets take many
+millennia to build up and at least centuries to collapse
+
+## Ensemble Forecast 
+The multiple simulations are conducted to account for the two usual sources of uncertainty in forecast models: (1) the errors introduced by the use of imperfect initial conditions, amplified by the chaotic nature of the evolution equations of the atmosphere, this is often referred to as sensitive dependence on the initial conditions; and (2) errors introduced because of imperfections in the model formulation, such as the approximate mathematical methods to solve the equations. Ideally, the verified future atmospheric state should fall within the predicted ensemble spread, and the amount of spread should be related to the uncertainty (error) of the forecast. In general, this approach can be used to make probabilistic forecasts of any dynamical system, and not just for weather prediction.
 
 
 ## Toy Model -- the Lorenz System
