@@ -5,11 +5,20 @@
 
 ## Recall of the Previous Post
 
-[Butterfly & Hawkmoth -Part 1](https://lambdamore.github.io/posts/butterflyhawkmoth_I)
+In the previous [post](https://lambdamore.github.io/posts/butterflyhawkmoth_I), I used the popular Lorenz System to illustrate the following ideas:
+	
+*	Dynamic System
+* 	Initial Sensitivity
+*  Temporal Mean
+* 	Ensemble Mean
 
-The interrogation of a deterministic physical view can be conducted in different ways. Despite the underlying **Principle of Uncertainty** rooted in quantum mechanics, even in a Newtonian playground, people have long realized the limitation of predictability for dynamic systems. 
+With these concepts constructed, I can explain the ideas of **Butterfly Effect** and **Hawkmoth Effect**, and their implications in *"Climate Science"*. 
 
-The limitation is termed under various names, such as *Laplace Demon* (Laplace), *Three Body Dilemma* (Henri Poincaré), *Butterfly Effect* (Lorenz), etc.. The last one is in fact over exaggerating although it successfully catched the public's eyes(See Orrell, Smith, etc. 2001 and Stephen Wolfram 2002).  
+* Three body problem (Newtonian and General Relativity)
+
+* Hierarchical modelling of Climate
+
+ 
 
 This post tries to illustrate the idea of the limitation with numerical simulations(in Part I), followed by a discussion of its effects on the unstable foundation of "***Climate Science***"(in Part II). 
 

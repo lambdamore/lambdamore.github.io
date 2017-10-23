@@ -1,7 +1,11 @@
 
 # Butterfly Effect and Hawkmoth Effect (I)
 
+
 <div style="text-align: right"> BX Pan </div>
+## Introduction
+Here comes a 2-posts series of exploration on chaos. This is the first post. The second post can be found here: [Butterfly & Hawkmoth -Part 2](https://lambdamore.github.io/posts/butterflyhawkmoth_II). 
+
 
 ## Motivation
 
